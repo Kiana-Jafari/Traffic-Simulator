@@ -16,6 +16,6 @@ The tools used in this mini-project include:
 
 You can see a demo and what it looks like:
 
-<img src='https://github.com/Kiana-Jafari/Traffic-Line/blob/main/Sample.gif' width='400'></img>
+<img src='https://github.com/Kiana-Jafari/Traffic-Line/blob/main/Sample.gif' width='600'></img>
 
 Hope you enjoy!
