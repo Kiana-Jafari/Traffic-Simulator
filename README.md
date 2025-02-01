@@ -1,4 +1,4 @@
-### Traffic Line
+### Traffic Flow Simulator
 
 Welcome to this mini-project! This project simulates a 2D traffic scene with moving cars. The setup creates 10 unique cars with random sizes and colors. Cars move across the screen and reset when off-screen. Traffic stops every 300 seconds to mimic real-world traffic flow. The environment includes a sky and a road as part of the scenery.
 
