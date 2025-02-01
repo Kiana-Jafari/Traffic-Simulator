@@ -4,15 +4,15 @@ Welcome to this mini-project! This project simulates a 2D traffic scene with mov
 
 The tools used in this mini-project include:
 
-- <bold>p5.js Library</bold>: A JavaScript framework for creative coding, used here to create and control the canvas, draw shapes, and handle animations.
+- <b>p5.js Library</b>: A JavaScript framework for creative coding, used here to create and control the canvas, draw shapes, and handle animations.
 
-- <bold>Canvas API</bold>: Utilized for drawing the environment, such as the road, sky, and cars on the canvas.
+- <b>Canvas API</b>: Utilized for drawing the environment, such as the road, sky, and cars on the canvas.
 
-- <bold>Basic Data Structures</bold>: Arrays are used to store and manage multiple car objects efficiently.
+- <b>Basic Data Structures</b>: Arrays are used to store and manage multiple car objects efficiently.
 
-- <bold>Object Rendering</bold>: Custom functions like renderCar() handle drawing and updating car properties on the screen.
+- <b>Object Rendering</b>: Custom functions like renderCar() handle drawing and updating car properties on the screen.
 
-- <bold>Randomization</bold>: The random() function is used to vary car dimensions, colors, and wheel sizes to create a dynamic visual scene.
+- <b>Randomization</b>: The random() function is used to vary car dimensions, colors, and wheel sizes to create a dynamic visual scene.
 
 You can see a demo and what it looks like:
 
