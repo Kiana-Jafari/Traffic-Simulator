@@ -1,24 +1,23 @@
 // Declare variables
-var floorPos_y;
-var traffic;
-var isMoving;
-var trafficCount;
+const floorPos_y = 600;
+let traffic;
+let isMoving;
+let trafficCount;
 
 // Initialize variables
 function setup()
 {
     createCanvas(1200, 800);
-    floorPos_y = 600;
-
+    
     isMoving = false;
     trafficCount = 0;
     space = (width + 1000) / 10;
 
     traffic = [];
-    for (var i = 0; i < 10; i++)
+    for (let i = 0; i < 10; i++)
     {
         // Define the car object
-        var car = {
+        let car = {
             x: -500 + i * space,
             height: random(100, 250),
             length: random(100, space * 0.9),
@@ -54,7 +53,7 @@ function draw()
     }
 
     // Movement
-    for (var i = 0; i < traffic.length; i++)
+    for (let i = 0; i < traffic.length; i++)
     {
         renderCar(traffic[i]);
         if (isMoving)
