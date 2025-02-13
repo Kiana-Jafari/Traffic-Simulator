@@ -49,7 +49,7 @@ function draw()
 
     else
     {
-        trafficCount += 1;
+        trafficCount ++;
     }
 
     // Movement
