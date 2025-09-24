@@ -16,6 +16,4 @@ The tools used in this mini-project include:
 
 You can see a demo and what it looks like:
 
-<img src='https://github.com/Kiana-Jafari/Traffic-Line/blob/main/Sample.gif' width='600'></img>
-
-Hope you enjoy!
+<img src='https://github.com/Kiana-Jafari/Traffic-Simulator/blob/7f9dc0dfb556486c3963d919436d5516c9a4f831/Sample.gif' width='600'></img>
